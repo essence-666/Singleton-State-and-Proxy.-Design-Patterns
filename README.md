@@ -1,0 +1,1 @@
+# Singleton-State-and-Proxy.-Design-Patterns
